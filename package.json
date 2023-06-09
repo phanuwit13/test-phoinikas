@@ -1,9 +1,11 @@
 {
-  "name": "two-dropdown",
+  "name": "test-phoinikas",
   "version": "0.1.0",
   "private": true,
   "scripts": {
     "dev": "next dev",
+    "second": "node answer/second.js",
+    "third": "node answer/third.js",
     "build": "next build",
     "start": "next start",
     "lint": "next lint"
